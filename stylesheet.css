@@ -1,0 +1,125 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+a{
+	text-decoration: none;
+}
+
+ul li{
+	list-style: none;
+}
+
+.topbar{
+	background-color: #316dc3;
+	padding: 5px;
+	color: white;	
+}
+
+.topbar img{
+	margin: 0 7px;
+}
+
+
+.show-in-line{
+	display: inline-block;
+}
+
+.head-button{
+	float: right;
+}
+
+.moto{
+	margin-left: 100px;
+}
+
+.head-button a{
+	width: auto;
+	background-color: #eee;
+	color: black;
+	padding: 5px 0px;
+	text-align: center;
+}
+
+.header{
+	background-color: #f7f8fa;
+}
+
+.menu ul li{
+	display: inline-block;
+}
+
+.menu ul li a{
+	padding: 10px 25px;
+	color: black;
+}
+
+.menu{
+	float:right; 
+	margin-top: 26px;
+	font-size: 14px;
+}
+
+.logo{
+	float: left;
+}
+
+.clear{
+	clear: both;
+}
+	
+.menu ul li a:hover{
+	background-color:#316dc3 ; 
+	color: white;
+	border-radius: 15px;
+}
+.mid{
+	width: 1200px;
+	margin: 0 auto;
+	background-color: #316dc3;
+	color: white;
+}
+
+h2.main-title{
+	text-align: center;
+	color: #316dc3;
+	margin: 20px;
+}
+
+.second-colour{
+	color: rgb(0, 255, 0);
+}
+
+.p{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.intro{
+	background-color: #f7f8fa;
+}
+
+.box{
+	 border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px white;
+}
+
+.saperator{
+			width: 70px;
+			height: 5px;
+			background-color: green;
+			display: block;
+}
+
+.projects marquee{
+	height: 200px;
+}
+
+.im{
+	background-color: #666666;
+}
+
+
+
